@@ -1,5 +1,5 @@
-# LinkedIn-ProfileProspector
-LinkedIn ProfileProspector is a versatile tool designed to automate the process of extracting data from LinkedIn profiles. With this application, you can streamline the task of gathering information about LinkedIn users based on your search criteria. Whether for research, networking, or recruitment purposes, this tool simplifies the process by automating login, search, and data collection. The results are displayed in an organized tabular format and can be downloaded as an Excel file for further analysis. Users have the flexibility to customize the fields of data they wish to extract.
+# LinkedIn-ProfileScrapper
+LinkedIn ProfileScrapper is a versatile tool designed to automate the process of extracting data from LinkedIn profiles. With this application, you can streamline the task of gathering information about LinkedIn users based on your search criteria. Whether for research, networking, or recruitment purposes, this tool simplifies the process by automating login, search, and data collection. The results are displayed in an organized tabular format and can be downloaded as an Excel file for further analysis. Users have the flexibility to customize the fields of data they wish to extract.
 
 ### Key Features
  - Seamless Login Automation: Automatically log in to LinkedIn using your credentials in a secure manner.
